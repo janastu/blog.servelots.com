@@ -1,0 +1,66 @@
+#+TITLE: Metarefresh 2015 experience
+#+OPTIONS: toc:3
+#+TOC: listings
+#+AUTHOR: Arvind Khadri
+#+EMAIL: arvind@servelots.com
+
+* Learnings from MetaRefresh 2015
+** In India, more than double the world's average, people access web from mobile.
+   The next set of people coming on to the web will be from mobile phones, not
+   from desktop. Very likely they will not have any idea how the web feels on a desktop.
+
+** Very important to provide the same experience to people coming on to your website from the mobile.
+
+** Test across as many mobile devices as possible.
+   To start with maybe just test with modern browsers on the devices. It is of
+   course impossible to make sure that your website drives the same experience
+   across all devices due to the fragmentation.
+   Load fonts after the content is loaded, as having no fonts may lead the user
+   to be unable to browse content.
+
+** User analytics is a must.
+   It is impossible to optimize a website for anyone's need if there is no
+   data being collected about the various aspects of user interaction with the
+   website. Start with Google analytics to be shipped with the websites being
+   built.
+
+** Product development is aided by goal oriented approach.
+   To be able to sell/deliver a product to a user base, it is very important to
+   first define the product clearly in terms of the feature set it is going to
+   support. If a product is too loosely defined then all it ends up is being a
+   ball of software which no one really cares about.
+
+* Interesting projects from MetaRefresh 2015
+** [[https://github.com/wingify/please.js][please.js]]
+   - please.js is a Request/Response based wrapper around the PostMessage API
+     that makes use of jQuery Promises.
+   - Useful for refactoring code from text annotation component, as there are a
+     lot of PostMessage calls in that component.
+
+** [[https://github.com/pykih/PykQuery.js][PykQuery.js]]
+   - A library to assist in building scalable dashboards. Plugs in with any
+     database backend.
+   - Try re-creating the linked data page, in the swtr app, with this library.
+
+** CSS support for blending and compositing.
+   - Blending and compositing is an old and well known technique to merge
+     layers of an image to a desired effect; think of posters with a background
+     colour, image and text, all these 3 layers are made to blend
+     together. This could be achieved by using an image manipulation tool like
+     GIMP or Photoshop.
+   - In January 2015 W3C came up with a standard for blending and composting to
+     be achieved through CSS. Now, developers can just apply CSS rules on divs
+     and achieve the desired effect of blending and composting images.
+   - Works with raster images like .jpg, .png and .gif. But is not limited to
+     just images, blending and compositing rules can also be applied to SVG
+     elements and also to real-time video which can be obtained by using
+     getUserMedia API of the browser.
+   - This feature is supported by Chrome, Firefox and Opera now, which includes
+     all modern browsers in my humble opinion.
+   - Useful in providing effects for story telling.
+
+** Web Components
+   - https://en.wikipedia.org/wiki/Web_Components
+   - https://www.polymer-project.org/0.5/
+   - The idea is being kind of driven by the post named Atomic web design by
+     Brad Frost. http://bradfrost.com/blog/post/atomic-web-design/
