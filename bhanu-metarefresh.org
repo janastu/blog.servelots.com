@@ -1,0 +1,43 @@
+#Title: To Metarefresh 2015 
+#Author: Bhanu Prakash (salus sage)
+#email: bhanu at servelots dot com
+As usual my watch was at least 3 hours off from the world i wanted to be in, and rush out of my home at 12.00pm. I rather though the venue is so close to my house, i ll be there in  no time, but did not realize how much time is no time.
+
+On the same day, some 10 year old public litigation for Lake encroachment had gotten a Judicial move to demolish encroached property. All roads leading to the venue became, 1 road leading to the venue, which was also used as an emergency detour for the regular traffic. (which is like a zillion bikes, a trillion cars, few hundred rickshaws, and buses which were stuck in every curve)
+
+In these conditions, I cover about half kilometer in half hour, I should have walked instead, but it was too late to change my decision.
+I reach the venue, and find  the catering was preparing to serve lunch, it could not get better, but wait! where is the conference and people?- I ask the attender, and he points me upstairs, and says, >“First Floor Sir”
+I take the stairs, and see the rest of my tribe, who had finished the first half of the session, and I say, “Somebody's smoking here”,
+Arvind, >"Ya, there's a smoking zone here, Let's go for lunch”
+
+The talks that caught me eye!!
+
+Another nice talk was about Building fron-tends the web components way, and it was around the conversations in our office and caught me. The speaker illustrated his approach with google's  polymer. This wasn't something I knew, though I had read a few blogs around the topic. It was like they got new hybrid HTML tags, which has html, css imports for design and script imports for functionality. Then there are templates, and data binding, event listeners all of that. In short we can build a neat  app, by using this kick ass components. Am excited to learn more about this.
+
+>*"A framework for building data driven front Ends”* by Ritvij Parrikh
+This was about a conceptual framework to help organize complexity around data driven interactive apps. Demo was about real time social network dashboards, and  cricket score app.
+it's very interesting for our swtr app and mouchak needs, this is the link to presentation http://www.slideshare.net/ritvvijparrikh/pykqueryjs
+github: https://github.com/pykih/PykQuery.rb
+we can write queries in javascript, or JSON
+They are a bunch of guys working from Mumbai and Bangalore, spoke to him about Swtr and our social semantic vision, and shared requirement for our projects. He seemed interested to work with us. 
+We should discuss around this.
+
+RTC talk was really cool - demo was about few use cases the speaker was working on and some problems and its inclusion in http standards. No middleman or server, only hand shakes. 
+Made me think like how amazing tool, which activists and terrorists would definitely wanna catch up to use. Just blowing it from  top of my head. 
+
+And now for the most controversial talk of the day in the light of Net neutrality, Airtel Zero and Flipkart's flip decision to drop out from the deal and more justifications around the business decisions. 
+“We don't hate the web”
+What they did not realize is that the talk content was a press release worthy and not as much of a tech conference types. Ya we get it, that you have more customer shopping from their mobiles, so you might as well could have stuck to your deal with Airtel Zero if it was such a thought out decision. 
+Then he goes on about with advantages of building native app againts web app, 
+Kiran Jonnalagadda tweets: “Should we do our own browser, to control experience?”
+
+So much was spoken about mobile vs web, mobile app vs web app.. seriously! i don't get it. 
+one reasonable argument  was based on your target customer, and thats it. 
+i mean, come on.. if i got a product to sell, i go and sell it everywhere than choosing just to put up a stall in front of my office. 
+look at Facebook, they are selling  Internet to  the so called poor countries
+
+Lot was about animations, browser rendering, 30 fps vs 60 fps and stuff. what caught me was the way they were using the debugger and other tools to find the  time taken to paint which i realize may be important in optimizing load times. The speaker's demo was with some kick ass block diagrams to show visually and mathematically the costs involved in rendering, human perception of motion and stuff.
+
+Free charge people about their app and development experience, and then there was clear trip - but clearly we had lost it by then, I mean clearly I don't know if we sat in flipkart's talk to just see him say “Paisa, paisa...” the animation guys bombarded us with lot of pj's and intellectual overload of content. 
+
+One boring(deliberately trying not to be a chauvinist) talk about website testing, and some tools they use.
